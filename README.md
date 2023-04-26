@@ -1,6 +1,6 @@
 <h1 align="center">PNG to ICNS</h1>
 
-<p align="center">Convert PNGs to ICNS/Iconset via Quick Actions</p>
+<p align="center">Automator workflows for converting PNGs to ICNS/Iconset via Quick Actions</p>
 
 <br>
 
