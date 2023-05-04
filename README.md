@@ -10,7 +10,7 @@
 
 ## Installation
 
-1. Download the chosen quick action(s) or the [last release](https://github.com/Zabriskije/PNG-to-ICNS/archive/master.zip)
+1. Download the chosen quick action(s) or the [latest release](https://github.com/Zabriskije/PNG-to-ICNS/archive/master.zip)
 2. Double-click on the `.workflow` file
 3. On the prompt window choose `Install`
 4. Enjoy!
